@@ -1,0 +1,230 @@
+{
+  "heading": "Contractions",
+  "topics": [
+    {
+      "heading": "Contractions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which contraction means the same as 'we have'?",
+          "options": [
+            { "text": "we're" },
+            { "text": "we've" },
+            { "text": "we'd" }
+          ],
+          "answer": 1,
+          "explanation": "'We've' is the correct contraction for 'we have'. We remove the 'ha' from 'have' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 2,
+          "question": "What does the contraction 'I'm' stand for?",
+          "options": [
+            { "text": "I am" },
+            { "text": "I have" },
+            { "text": "I will" }
+          ],
+          "answer": 0,
+          "explanation": "'I'm' is the contraction for 'I am'. We remove the 'a' from 'am' and replace it with an apostrophe. This is one of the most common contractions, used in sentences like 'I'm happy to see you.'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the correct contraction for 'she will':",
+          "options": [
+            { "text": "she'll" },
+            { "text": "shel’l" },
+            { "text": "she'd" }
+          ],
+          "answer": 0,
+          "explanation": "'She'll' is the correct contraction for 'she will'. We remove 'wi' from 'will' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which contraction means 'does not'?",
+          "options": [
+            { "text": "don't" },
+            { "text": "doesn't" },
+            { "text": "didn't" }
+          ],
+          "answer": 1,
+          "explanation": "'Doesn't' is the contraction for 'does not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 5,
+          "question": "What two words make up the contraction 'you're'?",
+          "options": [
+            { "text": "you are" },
+            { "text": "your were" },
+            { "text": "you have" }
+          ],
+          "answer": 0,
+          "explanation": "'You're' is the contraction of 'you are'. We remove the 'a' from 'are' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 6,
+          "question": "What does the contraction 'wasn't' mean?",
+          "options": [
+            { "text": "were not" },
+            { "text": "will not" },
+            { "text": "was not" }
+          ],
+          "answer": 2,
+          "explanation": "'Wasn't' is the contraction for 'was not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which contraction means 'have not'?",
+          "options": [
+            { "text": "haven't" },
+            { "text": "hasn't" },
+            { "text": "hadn't" }
+          ],
+          "answer": 0,
+          "explanation": "'Haven't' is the contraction for 'have not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the correct contraction for 'we will':",
+          "options": [
+            { "text": "we'll" },
+            { "text": "wel’l" },
+            { "text": "we'd" }
+          ],
+          "answer": 0,
+          "explanation": "'We'll' is the correct contraction for 'we will'. We remove 'wi' from 'will' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which contraction means 'are not'?",
+          "options": [
+            { "text": "isn't" },
+            { "text": "weren't" },
+            { "text": "aren't" }
+          ],
+          "answer": 2,
+          "explanation": "'Aren't' is the contraction for 'are not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct spelling: <br> <img src='./assests/images/json/1.png' width='150px'/>",
+          "options": [
+            { "text": "Detective" },
+            { "text": "Detactive" },
+            { "text": "Ditective" }
+          ],
+          "answer": 0,
+          "explanation": "'Detective' is the proper spelling of the word that refers to a person, often a police officer, who investigates crimes and gathers information."
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the correct contraction for 'they are':",
+          "options": [
+            { "text": "the’ir" },
+            { "text": "they're" },
+            { "text": "the’re" }
+          ],
+          "answer": 1,
+          "explanation": "'They're' is the correct contraction for 'they are'. We remove the 'a' from 'are' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which contraction means 'will not'?",
+          "options": [
+            { "text": "wouldn't" },
+            { "text": "weren't" },
+            { "text": "won't" }
+          ],
+          "answer": 2,
+          "explanation": "'Won't' is the contraction for 'will not'. This is an irregular contraction where 'will' changes to 'wo' when combined with 'not'."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which is the correct contraction of 'is not'?",
+          "options": [
+            { "text": "in't" },
+            { "text": "isn't" },
+            { "text": "ain't" }
+          ],
+          "answer": 1,
+          "explanation": "'Isn't' is the correct contraction for 'is not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the correct contraction for 'you had':",
+          "options": [
+            { "text": "you'd" },
+            { "text": "you've" },
+            { "text": "you'll" }
+          ],
+          "answer": 0,
+          "explanation": "'You'd' is the correct contraction for 'you had'. We remove 'ha' from 'had' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which contraction means 'were not'?",
+          "options": [
+            { "text": "wasn't" },
+            { "text": "weren't" },
+            { "text": "won't" }
+          ],
+          "answer": 1,
+          "explanation": "'Weren't' is the contraction for 'were not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which contraction means 'did not'?",
+          "options": [
+            { "text": "don't" },
+            { "text": "doesn't" },
+            { "text": "didn't" }
+          ],
+          "answer": 2,
+          "explanation": "'Didn't' is the contraction for 'did not'. We remove the 'o' from 'not' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 17,
+          "question": "What two words make up the contraction 'we're'?",
+          "options": [
+            { "text": "we are" },
+            { "text": "we was" },
+            { "text": "we have" }
+          ],
+          "answer": 0,
+          "explanation": "'We're' is the contraction of 'we are'. We remove the 'a' from 'are' and replace it with an apostrophe."
+        },
+        {
+          "questionNo": 18,
+          "question": "Look at the image and choose the correct sentence: <br> <img src='./assests/images/json/2.png' width='150px'/>",
+          "options": [
+            { "text": "The cat is playing with a ball." },
+            { "text": "The dog is barking loudly." },
+            { "text": "The cat is sleeping on the bed." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence accurately describes what is happening in the image, showing the cat in a relaxed state on the bed. The other options do not match the image since there is no ball or barking dog present."
+        },
+        {
+          "questionNo": 19,
+          "question": "‘They were not invited to the party’. Choose the sentence with the correct use of contraction.",
+          "options": [
+            { "text": "They wasn’t invited to the party." },
+            { "text": "They weren’t invited to the party." },
+            { "text": "Both a and b are incorrect" }
+          ],
+          "answer": 1,
+          "explanation": "'They weren’t' is the correct contraction for 'they were not.' It combines 'they' and 'were not' correctly."
+        },
+        {
+          "questionNo": 20,
+          "question": "What does the contraction 'she's' mean?",
+          "options": [
+            { "text": "she is" },
+            { "text": "she was" },
+            { "text": "She had" }
+          ],
+          "answer": 0,
+          "explanation": "The contraction 'she's' combines 'she' and 'is.' It is commonly used to indicate something happening in the present, such as 'She's happy,' which means 'She is happy.'"
+        }
+      ]
+    }
+  ]
+}
